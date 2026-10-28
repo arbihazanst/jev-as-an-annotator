@@ -1,0 +1,4 @@
+model,dataset,label,precision,recall,f1,support
+typesafe/jev-1.13,sentiment_hau,positive,0.5,0.8,0.6153846153846154,5
+typesafe/jev-1.13,sentiment_hau,negative,0.8333333333333334,1.0,0.9090909090909091,5
+typesafe/jev-1.13,sentiment_hau,neutral,1.0,0.2,0.3333333333333333,5

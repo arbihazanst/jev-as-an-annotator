@@ -1,0 +1,4 @@
+model,dataset,label,precision,recall,f1,support
+openai/gpt-6-luna-decisions,sentiment_hau,positive,0.45008976660682226,0.7633982947624848,0.5662977185452903,3284
+openai/gpt-6-luna-decisions,sentiment_hau,negative,0.6195222870039496,0.7206300590680377,0.6662621359223301,4571
+openai/gpt-6-luna-decisions,sentiment_hau,neutral,0.7099358974358975,0.2710032626427406,0.3922668240850059,4904

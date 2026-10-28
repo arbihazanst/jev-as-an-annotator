@@ -1,0 +1,9 @@
+model,dataset,target_coverage,n,accuracy,minimum_confidence
+typesafe/jev-1.13,sentiment_tr,1.0,12760,0.7746865203761756,0.34
+typesafe/jev-1.13,sentiment_tr,0.9,11484,0.8167885754092651,0.67
+typesafe/jev-1.13,sentiment_tr,0.75,9570,0.874294670846395,0.9
+typesafe/jev-1.13,sentiment_tr,0.5,6380,0.9258620689655173,0.99
+typesafe/jev-1.13,emotion_tr,1.0,4403,0.75584828526005,0.26
+typesafe/jev-1.13,emotion_tr,0.9,3963,0.7988897300025234,0.56
+typesafe/jev-1.13,emotion_tr,0.75,3303,0.8577051165607024,0.79
+typesafe/jev-1.13,emotion_tr,0.5,2202,0.9209809264305178,0.98

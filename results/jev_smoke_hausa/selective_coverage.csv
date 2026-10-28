@@ -1,0 +1,5 @@
+model,dataset,target_coverage,n,accuracy,minimum_confidence
+typesafe/jev-1.13,sentiment_hau,1.0,15,0.6666666666666666,0.47
+typesafe/jev-1.13,sentiment_hau,0.9,14,0.6428571428571429,0.58
+typesafe/jev-1.13,sentiment_hau,0.75,12,0.6666666666666666,0.63
+typesafe/jev-1.13,sentiment_hau,0.5,8,0.75,0.75

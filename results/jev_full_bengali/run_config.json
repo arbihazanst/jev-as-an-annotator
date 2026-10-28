@@ -1,0 +1,43 @@
+{
+  "comparable_config": {
+    "dataset_sha256": {
+      "emotion_bn": "8557fca3b45db2142176a5aad4fdf9194bad3553104dbcb22a18bbd620e97ce7",
+      "sentiment_bn": "165f426ebadcb5fea8b6e01e4529eac82bb561973616f8a566053d457cd2b818"
+    },
+    "datasets": [
+      "sentiment_bn",
+      "emotion_bn"
+    ],
+    "limit": null,
+    "mode": "full",
+    "model": "typesafe/jev-1.13",
+    "samples_per_class": null,
+    "seed": 42
+  },
+  "created_at": "2026-10-03T04:25:02.668744+00:00",
+  "credential_source": "OPENROUTER_API_KEY environment variable or .env",
+  "dataset_sha256": {
+    "emotion_bn": "8557fca3b45db2142176a5aad4fdf9194bad3553104dbcb22a18bbd620e97ce7",
+    "sentiment_bn": "165f426ebadcb5fea8b6e01e4529eac82bb561973616f8a566053d457cd2b818"
+  },
+  "datasets": [
+    "sentiment_bn",
+    "emotion_bn"
+  ],
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "mode": "full",
+  "model": "typesafe/jev-1.13",
+  "runtime": {
+    "bootstrap_samples": 500,
+    "calibration_bins": 10,
+    "concurrency": 5,
+    "retries": 3,
+    "retry_base_seconds": 1.0,
+    "timeout_seconds": 60.0
+  },
+  "seed": 42,
+  "selected_rows": {
+    "emotion_bn": 4403,
+    "sentiment_bn": 12760
+  }
+}

@@ -1,0 +1,7 @@
+dataset,model_a,model_b,n_paired,model_a_correct_model_b_wrong,model_a_wrong_model_b_correct,mcnemar_chi_square_cc,mcnemar_p_value_asymptotic
+sentiment_tr,nimble:9b,tev1:0.8b,12760,1277,684,178.71698113207546,9.237635245599033e-41
+sentiment_tr,nimble:9b,tev1:4b,12760,488,637,19.470222222222223,1.0218026531884592e-05
+sentiment_tr,tev1:0.8b,tev1:4b,12760,633,1375,273.4467131474104,2.0124747593818364e-61
+emotion_tr,nimble:9b,tev1:0.8b,4403,1350,169,916.6556945358789,2.3502251740191767e-201
+emotion_tr,nimble:9b,tev1:4b,4403,459,233,73.15751445086705,1.1970495234579067e-17
+emotion_tr,tev1:0.8b,tev1:4b,4403,196,1151,675.6614699331849,5.866932114716318e-149

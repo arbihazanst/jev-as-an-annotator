@@ -1,0 +1,9 @@
+,pred_iğrenme,pred_korku,pred_minnet,pred_pişmanlık,pred_mutluluk,pred_öfke,pred_şaşkınlık,pred_üzüntü
+gold_iğrenme,426,2,2,76,3,27,1,14
+gold_korku,197,241,1,47,3,8,8,46
+gold_minnet,29,4,286,7,217,0,5,2
+gold_pişmanlık,97,4,1,404,8,15,2,19
+gold_mutluluk,163,5,28,12,300,14,24,4
+gold_öfke,379,10,5,46,10,90,5,6
+gold_şaşkınlık,304,11,9,45,25,8,139,9
+gold_üzüntü,253,9,8,154,19,19,12,76

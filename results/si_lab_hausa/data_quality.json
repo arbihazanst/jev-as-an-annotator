@@ -1,0 +1,261 @@
+{
+  "emotion": {
+    "class_counts": {
+      "anger": 1102,
+      "fear": 649,
+      "happy": 1017,
+      "love": 637,
+      "sadness": 998
+    },
+    "columns": [
+      "id",
+      "tweet",
+      "label"
+    ],
+    "conflicting_duplicate_text_groups": 1,
+    "dataset": "emotion",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 22,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\emotionals_data.csv",
+    "rows": 4403,
+    "samples_per_class": null,
+    "selected_rows": 4403,
+    "sha256": "39d4f6ef02b0f16f6c542e7f6ee10e0221708dac9a3c195d5883dc42400ba93b",
+    "unexpected_labels": []
+  },
+  "emotion_bn": {
+    "class_counts": {
+      "anger": 711,
+      "disgust": 878,
+      "fear": 558,
+      "joy": 1022,
+      "sadness": 786,
+      "surprise": 448
+    },
+    "columns": [
+      "id",
+      "text",
+      "label"
+    ],
+    "conflicting_duplicate_text_groups": 15,
+    "dataset": "emotion_bn",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 260,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\bengali_emotionals_data.csv",
+    "rows": 4403,
+    "samples_per_class": null,
+    "selected_rows": 4403,
+    "sha256": "8557fca3b45db2142176a5aad4fdf9194bad3553104dbcb22a18bbd620e97ce7",
+    "unexpected_labels": []
+  },
+  "emotion_id": {
+    "class_counts": {
+      "anger": 1102,
+      "fear": 649,
+      "happy": 1017,
+      "love": 637,
+      "sadness": 998
+    },
+    "columns": [
+      "id",
+      "tweet",
+      "label"
+    ],
+    "conflicting_duplicate_text_groups": 1,
+    "dataset": "emotion_id",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 22,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\emotionals_data.csv",
+    "rows": 4403,
+    "samples_per_class": null,
+    "selected_rows": 4403,
+    "sha256": "39d4f6ef02b0f16f6c542e7f6ee10e0221708dac9a3c195d5883dc42400ba93b",
+    "unexpected_labels": []
+  },
+  "emotion_tr": {
+    "class_counts": {
+      "iğrenme": 551,
+      "korku": 551,
+      "minnet": 550,
+      "mutluluk": 550,
+      "pişmanlık": 550,
+      "öfke": 551,
+      "üzüntü": 550,
+      "şaşkınlık": 550
+    },
+    "columns": [
+      "id",
+      "text",
+      "label"
+    ],
+    "conflicting_duplicate_text_groups": 0,
+    "dataset": "emotion_tr",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 0,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\turkiye_emotionals_data.csv",
+    "rows": 4403,
+    "samples_per_class": null,
+    "selected_rows": 4403,
+    "sha256": "4e1633a7974e5412121d7cd7c891d3cb715f5730d2463cd4e1a9d68a17dd917d",
+    "unexpected_labels": []
+  },
+  "sentiment": {
+    "class_counts": {
+      "negative": 4034,
+      "neutral": 1367,
+      "positive": 7359
+    },
+    "columns": [
+      "id",
+      "text",
+      "sentiment"
+    ],
+    "conflicting_duplicate_text_groups": 0,
+    "dataset": "sentiment",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 151,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\sentiments_data.csv",
+    "rows": 12760,
+    "samples_per_class": null,
+    "selected_rows": 12760,
+    "sha256": "0c1da1543495d66194e67358a439de7859a3a65e02a2cd8d8f4150d1fbb3045a",
+    "unexpected_labels": []
+  },
+  "sentiment_bn": {
+    "class_counts": {
+      "negative": 2939,
+      "neutral": 5209,
+      "positive": 4612
+    },
+    "columns": [
+      "id",
+      "Data",
+      "Label"
+    ],
+    "conflicting_duplicate_text_groups": 123,
+    "dataset": "sentiment_bn",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 2729,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\bengali_sentiments_data.csv",
+    "rows": 12760,
+    "samples_per_class": null,
+    "selected_rows": 12760,
+    "sha256": "165f426ebadcb5fea8b6e01e4529eac82bb561973616f8a566053d457cd2b818",
+    "unexpected_labels": []
+  },
+  "sentiment_hau": {
+    "class_counts": {
+      "negative": 4571,
+      "neutral": 4905,
+      "positive": 3284
+    },
+    "columns": [
+      "id",
+      "text",
+      "sentiment",
+      "source_split",
+      "source_file",
+      "source_record",
+      "all_source_splits"
+    ],
+    "conflicting_duplicate_text_groups": 0,
+    "dataset": "sentiment_hau",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 0,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\hausa_sentiments_data.csv",
+    "rows": 12760,
+    "samples_per_class": null,
+    "selected_rows": 12760,
+    "sha256": "e648f824e96fe6169f39b6f5caa015bebc20e8d496bef4a957648b5a95c27303",
+    "unexpected_labels": []
+  },
+  "sentiment_id": {
+    "class_counts": {
+      "negative": 4034,
+      "neutral": 1367,
+      "positive": 7359
+    },
+    "columns": [
+      "id",
+      "text",
+      "sentiment"
+    ],
+    "conflicting_duplicate_text_groups": 0,
+    "dataset": "sentiment_id",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 151,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\sentiments_data.csv",
+    "rows": 12760,
+    "samples_per_class": null,
+    "selected_rows": 12760,
+    "sha256": "0c1da1543495d66194e67358a439de7859a3a65e02a2cd8d8f4150d1fbb3045a",
+    "unexpected_labels": []
+  },
+  "sentiment_tr": {
+    "class_counts": {
+      "negative": 2935,
+      "neutral": 2191,
+      "positive": 7634
+    },
+    "columns": [
+      "id",
+      "text",
+      "sentiment"
+    ],
+    "conflicting_duplicate_text_groups": 0,
+    "dataset": "sentiment_tr",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 0,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\turkiye_sentiments_data.csv",
+    "rows": 12760,
+    "samples_per_class": null,
+    "selected_rows": 12760,
+    "sha256": "0bcc4eb0be69ea064c1aa4a732e9aa3a9864966ca381e680d6609394946fc9b8",
+    "unexpected_labels": []
+  }
+}

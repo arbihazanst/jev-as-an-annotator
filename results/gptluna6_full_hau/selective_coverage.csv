@@ -1,0 +1,5 @@
+model,dataset,target_coverage,n,accuracy,minimum_confidence
+openai/gpt-6-luna-decisions,sentiment_hau,1.0,12759,0.5588212242338741,0.34
+openai/gpt-6-luna-decisions,sentiment_hau,0.9,11484,0.5815047021943573,0.47
+openai/gpt-6-luna-decisions,sentiment_hau,0.75,9570,0.6229885057471264,0.57
+openai/gpt-6-luna-decisions,sentiment_hau,0.5,6380,0.7191222570532916,0.77

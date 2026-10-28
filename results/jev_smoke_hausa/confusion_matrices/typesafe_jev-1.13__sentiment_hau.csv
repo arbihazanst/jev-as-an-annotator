@@ -1,0 +1,4 @@
+,pred_positive,pred_negative,pred_neutral
+gold_positive,4,1,0
+gold_negative,0,5,0
+gold_neutral,4,0,1

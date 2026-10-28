@@ -1,0 +1,33 @@
+{
+  "sentiment_hau": {
+    "class_counts": {
+      "negative": 7119,
+      "neutral": 7556,
+      "positive": 5848
+    },
+    "columns": [
+      "id",
+      "text",
+      "sentiment",
+      "source_split",
+      "source_file",
+      "source_record",
+      "all_source_splits"
+    ],
+    "conflicting_duplicate_text_groups": 0,
+    "dataset": "sentiment_hau",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 0,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\hausa_sentiments_data.csv",
+    "rows": 20523,
+    "samples_per_class": 5,
+    "selected_rows": 15,
+    "sha256": "a07e345772537547d8cbede98d1e5f891dd83bf1755a8f475fa9e0afe7639d4d",
+    "unexpected_labels": []
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "comparable_config": {
+    "base_url": "http://127.0.0.1:11435",
+    "dataset_sha256": {
+      "emotion_tr": "4e1633a7974e5412121d7cd7c891d3cb715f5730d2463cd4e1a9d68a17dd917d",
+      "sentiment_tr": "0bcc4eb0be69ea064c1aa4a732e9aa3a9864966ca381e680d6609394946fc9b8"
+    },
+    "datasets": [
+      "sentiment_tr",
+      "emotion_tr"
+    ],
+    "deduplicate_text": false,
+    "models": [
+      "nimble:9b",
+      "tev1:0.8b",
+      "tev1:4b"
+    ],
+    "ollama_base_url": "http://127.0.0.1:11435",
+    "samples_per_class": null,
+    "script_version": "1.2.0",
+    "seed": 42,
+    "transport": "systemone"
+  },
+  "created_at": "2026-10-02T08:35:17.339191+00:00",
+  "credential_source": "SI_LAB_API_KEY environment variable",
+  "final_errors": 0,
+  "resumed_successes": 51219,
+  "run_id": "fc58c4d1bff9bb93",
+  "runtime": {
+    "bootstrap_samples": 500,
+    "calibration_bins": 10,
+    "concurrency": 2,
+    "retries": 3,
+    "retry_base_seconds": 1.0,
+    "timeout": 600.0
+  },
+  "selected_rows": {
+    "emotion_tr": 4403,
+    "sentiment_tr": 12760
+  },
+  "updated_at": "2026-10-03T03:05:57.659662+00:00",
+  "visible_models": [
+    "granite4.2:8b",
+    "qwen3.5:2b",
+    "tev1:0.8b",
+    "tev1:4b",
+    "nimble:9b",
+    "qwen3.5:9b",
+    "granite4.2:3b",
+    "gemma4:12b",
+    "qwen3.8:latest",
+    "nemotron-3.5-lightning:30b",
+    "muse-glimmer:latest",
+    "qwen3-embedding:8b",
+    "gpt-oss:120b",
+    "gpt-oss:20b",
+    "aisingapore/Gemma-SEA-LION-v4.5-E2B-IT:latest",
+    "hf.co/aisingapore/Gemma-SEA-LION-v4.5-E2B-IT-GGUF:Q4_K_M",
+    "qwen3.6:35b",
+    "granite4.1:30b",
+    "gemma4:e2b",
+    "gemma4:31b",
+    "granite4.1:8b",
+    "granite4.1:3b",
+    "qwen3.5:0.8b",
+    "gemma4:e4b",
+    "translategemma:4b",
+    "nemotron-3-nano:latest",
+    "hf.co/mmnga/llm-jp-3-7.2b-instruct3-gguf:latest",
+    "hf.co/mmnga/sarashina2.2-3b-instruct-v0.1-gguf:latest",
+    "hf.co/mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.3-gguf:latest",
+    "ed-neo4j/t2c-gemma3-4b-it-q8_0-35k:latest",
+    "llama3.2:1b",
+    "phi4:14b",
+    "gemma3:12b",
+    "deepseek-r1:32b",
+    "deepseek-r1:1.5b",
+    "llama3.2:3b"
+  ]
+}

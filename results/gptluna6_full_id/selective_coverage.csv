@@ -1,0 +1,9 @@
+model,dataset,target_coverage,n,accuracy,minimum_confidence
+openai/gpt-6-luna-decisions,sentiment_id,1.0,12753,0.8893593664235866,0.35
+openai/gpt-6-luna-decisions,sentiment_id,0.9,11478,0.9281233664401464,0.85
+openai/gpt-6-luna-decisions,sentiment_id,0.75,9565,0.9550444328280188,0.99
+openai/gpt-6-luna-decisions,sentiment_id,0.5,6377,0.9623647483142543,1.0
+openai/gpt-6-luna-decisions,emotion_id,1.0,4403,0.8003633885986827,0.31
+openai/gpt-6-luna-decisions,emotion_id,0.9,3963,0.835478173101186,0.7
+openai/gpt-6-luna-decisions,emotion_id,0.75,3303,0.8788979715410233,0.9
+openai/gpt-6-luna-decisions,emotion_id,0.5,2202,0.9364214350590372,0.99

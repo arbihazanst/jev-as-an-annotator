@@ -1,0 +1,43 @@
+{
+  "combined_predictions": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\results\\all_models_turkiye\\combined_predictions.jsonl",
+  "coverage_successful": {
+    "emotion_tr": {
+      "nimble:9b": 4403,
+      "tev1:0.8b": 4403,
+      "tev1:4b": 4403,
+      "typesafe/jev-1.13": 4403
+    },
+    "sentiment_tr": {
+      "nimble:9b": 12760,
+      "tev1:0.8b": 12760,
+      "tev1:4b": 12760,
+      "typesafe/jev-1.13": 12760
+    }
+  },
+  "dataset_sha256": {
+    "emotion_tr": "4e1633a7974e5412121d7cd7c891d3cb715f5730d2463cd4e1a9d68a17dd917d",
+    "sentiment_tr": "0bcc4eb0be69ea064c1aa4a732e9aa3a9864966ca381e680d6609394946fc9b8"
+  },
+  "datasets": [
+    "sentiment_tr",
+    "emotion_tr"
+  ],
+  "generated_at": "2026-10-03T03:09:56.767267+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\results\\si_lab_turkiye\\predictions.jsonl",
+      "sha256": "d9719702c514cf869df8196341852127392f77687aaacde74f3e5771c451def6"
+    },
+    {
+      "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\results\\jev_full_turkiye\\predictions.jsonl",
+      "sha256": "47eb3ae7c76a88715efd34fa2d72f0945331c26ef9930da9d1448a5a241c4317"
+    }
+  ],
+  "models": [
+    "nimble:9b",
+    "tev1:0.8b",
+    "tev1:4b",
+    "typesafe/jev-1.13"
+  ],
+  "require_full_dataset": true
+}

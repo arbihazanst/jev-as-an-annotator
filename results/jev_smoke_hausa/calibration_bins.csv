@@ -1,0 +1,6 @@
+model,dataset,bin,lower,upper,count,mean_confidence,accuracy,absolute_gap
+typesafe/jev-1.13,sentiment_hau,1,0.0,0.2,0,,,
+typesafe/jev-1.13,sentiment_hau,2,0.2,0.4,0,,,
+typesafe/jev-1.13,sentiment_hau,3,0.4,0.6,2,0.5249999999999999,1.0,0.4750000000000001
+typesafe/jev-1.13,sentiment_hau,4,0.6,0.8,7,0.7042857142857143,0.42857142857142855,0.27571428571428575
+typesafe/jev-1.13,sentiment_hau,5,0.8,1.0,6,0.9283333333333333,0.8333333333333334,0.09499999999999997

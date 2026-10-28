@@ -1,0 +1,4 @@
+,pred_positive,pred_negative,pred_neutral
+gold_positive,617,3041,954
+gold_negative,778,1186,975
+gold_neutral,3081,1222,906

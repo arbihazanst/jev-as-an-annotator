@@ -1,0 +1,58 @@
+{
+  "comparable_config": {
+    "dataset_sha256": {
+      "emotion_id": "570964a669912e15998b39c1c952626ce37626635c4c259bd1455d2ee688948d",
+      "emotion_tr": "4e1633a7974e5412121d7cd7c891d3cb715f5730d2463cd4e1a9d68a17dd917d",
+      "sentiment_hau": "e648f824e96fe6169f39b6f5caa015bebc20e8d496bef4a957648b5a95c27303",
+      "sentiment_id": "0c1da1543495d66194e67358a439de7859a3a65e02a2cd8d8f4150d1fbb3045a",
+      "sentiment_tr": "0bcc4eb0be69ea064c1aa4a732e9aa3a9864966ca381e680d6609394946fc9b8"
+    },
+    "datasets": [
+      "sentiment_id",
+      "emotion_id",
+      "sentiment_tr",
+      "emotion_tr",
+      "sentiment_hau"
+    ],
+    "limit": null,
+    "mode": "full",
+    "model": "microsoft/microsoft-decision-1",
+    "samples_per_class": null,
+    "seed": 42
+  },
+  "created_at": "2026-10-10T04:43:34.802732+00:00",
+  "credential_source": "OPENROUTER_API_KEY environment variable or .env",
+  "dataset_sha256": {
+    "emotion_id": "570964a669912e15998b39c1c952626ce37626635c4c259bd1455d2ee688948d",
+    "emotion_tr": "4e1633a7974e5412121d7cd7c891d3cb715f5730d2463cd4e1a9d68a17dd917d",
+    "sentiment_hau": "e648f824e96fe6169f39b6f5caa015bebc20e8d496bef4a957648b5a95c27303",
+    "sentiment_id": "0c1da1543495d66194e67358a439de7859a3a65e02a2cd8d8f4150d1fbb3045a",
+    "sentiment_tr": "0bcc4eb0be69ea064c1aa4a732e9aa3a9864966ca381e680d6609394946fc9b8"
+  },
+  "datasets": [
+    "sentiment_id",
+    "emotion_id",
+    "sentiment_tr",
+    "emotion_tr",
+    "sentiment_hau"
+  ],
+  "endpoint": "https://openrouter.ai/api/alpha/decisions",
+  "mode": "full",
+  "model": "microsoft/microsoft-decision-1",
+  "runtime": {
+    "bootstrap_samples": 500,
+    "calibration_bins": 10,
+    "concurrency": 5,
+    "retries": 3,
+    "retry_base_seconds": 1.0,
+    "timeout_seconds": 60.0
+  },
+  "seed": 42,
+  "selected_rows": {
+    "emotion_id": 4403,
+    "emotion_tr": 4403,
+    "sentiment_hau": 12760,
+    "sentiment_id": 12760,
+    "sentiment_tr": 12760
+  }
+}

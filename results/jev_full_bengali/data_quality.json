@@ -1,0 +1,59 @@
+{
+  "emotion_bn": {
+    "class_counts": {
+      "anger": 711,
+      "disgust": 878,
+      "fear": 558,
+      "joy": 1022,
+      "sadness": 786,
+      "surprise": 448
+    },
+    "columns": [
+      "id",
+      "text",
+      "label"
+    ],
+    "conflicting_duplicate_text_groups": 15,
+    "dataset": "emotion_bn",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 260,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\bengali_emotionals_data.csv",
+    "rows": 4403,
+    "samples_per_class": null,
+    "selected_rows": 4403,
+    "sha256": "8557fca3b45db2142176a5aad4fdf9194bad3553104dbcb22a18bbd620e97ce7",
+    "unexpected_labels": []
+  },
+  "sentiment_bn": {
+    "class_counts": {
+      "negative": 2939,
+      "neutral": 5209,
+      "positive": 4612
+    },
+    "columns": [
+      "id",
+      "Data",
+      "Label"
+    ],
+    "conflicting_duplicate_text_groups": 123,
+    "dataset": "sentiment_bn",
+    "deduplicate_text": false,
+    "deduplication_removed_rows": 0,
+    "duplicate_id_rows": 0,
+    "duplicate_text_rows": 2729,
+    "missing_ids": 0,
+    "missing_labels": 0,
+    "missing_texts": 0,
+    "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\data\\bengali_sentiments_data.csv",
+    "rows": 12760,
+    "samples_per_class": null,
+    "selected_rows": 12760,
+    "sha256": "165f426ebadcb5fea8b6e01e4529eac82bb561973616f8a566053d457cd2b818",
+    "unexpected_labels": []
+  }
+}

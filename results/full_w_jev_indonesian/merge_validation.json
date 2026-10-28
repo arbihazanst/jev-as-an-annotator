@@ -1,0 +1,22 @@
+{
+  "models": [
+    "nimble:9b",
+    "tev1:0.8b",
+    "tev1:4b",
+    "typesafe/jev-1.13"
+  ],
+  "datasets": {
+    "sentiment": 12760,
+    "emotion": 4403
+  },
+  "records_per_model": 17163,
+  "total_records": 68652,
+  "all_status_ok": true,
+  "duplicate_model_dataset_id_keys": 0,
+  "jev_vs_each_silab_id_coverage": "17163/17163 exact",
+  "gold_label_mismatches": 0,
+  "text_sha256_mismatches": 0,
+  "jev_probability_max_sum_error": 0.01,
+  "note_on_jev_probabilities": "Some Jev probability vectors sum to 0.99/1.01 due to rounding; the shared evaluator normalizes valid vectors before probability-based metrics.",
+  "pairwise_rows": 12
+}

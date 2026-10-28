@@ -1,0 +1,1 @@
+dataset,model_a,model_b,n_paired,model_a_correct_model_b_wrong,model_a_wrong_model_b_correct,mcnemar_chi_square_cc,mcnemar_p_value_asymptotic

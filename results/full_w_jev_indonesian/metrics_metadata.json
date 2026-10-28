@@ -1,0 +1,21 @@
+{
+  "bootstrap": {
+    "confidence_level": 0.95,
+    "method": "stratified percentile bootstrap",
+    "samples": 500,
+    "seed": 42
+  },
+  "ece_bins": 10,
+  "generated_at": "2026-10-01T11:52:28.007671+00:00",
+  "multiclass_brier_definition": "mean over examples of the sum of squared differences between class probabilities and one-hot outcomes",
+  "pairwise_test": "continuity-corrected asymptotic McNemar test",
+  "primary_metric": "macro_f1",
+  "probability_note": "Probability metrics are computed only for rows with a complete, finite native probability vector.",
+  "combined_models": [
+    "nimble:9b",
+    "tev1:0.8b",
+    "tev1:4b",
+    "typesafe/jev-1.13"
+  ],
+  "source_note": "Model-local metrics concatenated from runs with identical bootstrap/ECE settings; cross-model McNemar comparisons recomputed from aligned raw predictions."
+}

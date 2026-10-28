@@ -1,0 +1,43 @@
+{
+  "combined_predictions": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\results\\all_models_bengali\\combined_predictions.jsonl",
+  "coverage_successful": {
+    "emotion_bn": {
+      "nimble:9b": 4403,
+      "tev1:0.8b": 4403,
+      "tev1:4b": 4403,
+      "typesafe/jev-1.13": 4403
+    },
+    "sentiment_bn": {
+      "nimble:9b": 12760,
+      "tev1:0.8b": 12760,
+      "tev1:4b": 12760,
+      "typesafe/jev-1.13": 12760
+    }
+  },
+  "dataset_sha256": {
+    "emotion_bn": "8557fca3b45db2142176a5aad4fdf9194bad3553104dbcb22a18bbd620e97ce7",
+    "sentiment_bn": "165f426ebadcb5fea8b6e01e4529eac82bb561973616f8a566053d457cd2b818"
+  },
+  "datasets": [
+    "sentiment_bn",
+    "emotion_bn"
+  ],
+  "generated_at": "2026-10-03T09:56:09.450728+00:00",
+  "inputs": [
+    {
+      "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\results\\si_lab_bengali\\predictions.jsonl",
+      "sha256": "0878c82a0ea88f0f057aeb1537ad030b85176bf106e5c5d08dc00e1f40c4326d"
+    },
+    {
+      "path": "C:\\Users\\prase\\Downloads\\marifahmad\\decision_models_benchmark_best_practices\\results\\jev_full_bengali\\predictions.jsonl",
+      "sha256": "fde78620362749e055f03ce0ee8a01e1804693cebe1d83aa4663dffb609fa9c7"
+    }
+  ],
+  "models": [
+    "nimble:9b",
+    "tev1:0.8b",
+    "tev1:4b",
+    "typesafe/jev-1.13"
+  ],
+  "require_full_dataset": true
+}

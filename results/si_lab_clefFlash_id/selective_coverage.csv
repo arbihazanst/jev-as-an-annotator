@@ -1,0 +1,9 @@
+model,dataset,target_coverage,n,accuracy,minimum_confidence
+clef-flash:9b,sentiment_id,1.0,60,0.9,0.4923925890807056
+clef-flash:9b,sentiment_id,0.9,54,0.9074074074074074,0.626795662353552
+clef-flash:9b,sentiment_id,0.75,45,0.9111111111111111,0.7894775083011485
+clef-flash:9b,sentiment_id,0.5,30,1.0,0.9058258604727095
+clef-flash:9b,emotion_id,1.0,100,0.67,0.3953782493348633
+clef-flash:9b,emotion_id,0.9,90,0.6888888888888889,0.6212436836802688
+clef-flash:9b,emotion_id,0.75,75,0.76,0.7451297680769473
+clef-flash:9b,emotion_id,0.5,50,0.9,0.8483946499801867

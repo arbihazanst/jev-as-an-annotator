@@ -1,0 +1,11 @@
+model,dataset,bin,lower,upper,count,mean_confidence,accuracy,absolute_gap
+openai/gpt-6-luna-decisions,sentiment_hau,1,0.0,0.1,0,,,
+openai/gpt-6-luna-decisions,sentiment_hau,2,0.1,0.2,0,,,
+openai/gpt-6-luna-decisions,sentiment_hau,3,0.2,0.3,0,,,
+openai/gpt-6-luna-decisions,sentiment_hau,4,0.3,0.4,258,0.37465116279069766,0.29844961240310075,0.0762015503875969
+openai/gpt-6-luna-decisions,sentiment_hau,5,0.4,0.5,1438,0.45278164116828923,0.3678720445062587,0.08490959666203052
+openai/gpt-6-luna-decisions,sentiment_hau,6,0.5,0.6,1960,0.5441887755102042,0.38010204081632654,0.16408673469387763
+openai/gpt-6-luna-decisions,sentiment_hau,7,0.6,0.7,1677,0.6436255217650567,0.40727489564698865,0.23635062611806806
+openai/gpt-6-luna-decisions,sentiment_hau,8,0.7,0.8,1417,0.7465137614678898,0.4848270995059986,0.2616866619618912
+openai/gpt-6-luna-decisions,sentiment_hau,9,0.8,0.9,1588,0.847544080604534,0.5831234256926953,0.26442065491183875
+openai/gpt-6-luna-decisions,sentiment_hau,10,0.9,1.0,4421,0.9644627912237052,0.7878308075096132,0.17663198371409194
