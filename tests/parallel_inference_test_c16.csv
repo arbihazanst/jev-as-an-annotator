@@ -1,0 +1,401 @@
+phase,service,seq,success,latency_s,error,dimension,decision
+pplx_alone,pplx,91,True,0.15272,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,41,True,0.25907,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,9,True,0.38166,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,42,True,0.50025,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,65,True,0.61111,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,50,True,0.72434,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,1,True,0.83793,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,70,True,0.93445,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,15,True,1.04724,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,78,True,1.16196,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,73,True,1.2831,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,10,True,1.39965,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,55,True,1.51532,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,56,True,1.6349,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,72,True,1.76475,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,45,True,1.88006,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,48,True,1.90784,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,92,True,1.90408,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,76,True,1.90056,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,37,True,1.90127,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,30,True,1.89847,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,21,True,1.89958,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,32,True,1.90546,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,96,True,1.90464,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,80,True,1.90113,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,49,True,1.90129,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,83,True,1.90182,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,26,True,1.89957,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,87,True,1.9103,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,33,True,1.91177,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,8,True,1.89767,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,47,True,1.9094,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,59,True,1.85514,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,63,True,1.87746,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,74,True,1.86306,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,44,True,1.85397,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,98,True,1.85609,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,52,True,1.84519,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,85,True,1.84277,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,12,True,1.83198,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,36,True,1.8381,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,23,True,1.82596,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,39,True,1.82607,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,40,True,1.81818,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,18,True,1.81518,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,66,True,1.80984,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,61,True,1.81436,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,60,True,1.79036,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,7,True,1.7844,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,34,True,1.77763,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,99,True,1.79149,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,46,True,1.80366,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,2,True,1.86002,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,51,True,1.85869,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,16,True,1.86341,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,38,True,1.8923,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,58,True,1.8971,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,68,True,1.8809,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,22,True,1.87772,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,62,True,1.88277,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,24,True,1.8802,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,5,True,1.87083,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,6,True,1.8726,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,67,True,1.87923,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,82,True,1.8779,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,19,True,1.87793,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,79,True,1.86144,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,43,True,1.86625,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,90,True,1.79776,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,20,True,1.79643,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,0,True,1.79772,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,95,True,1.80714,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,57,True,1.79655,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,93,True,1.80888,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,53,True,1.78066,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,89,True,1.76955,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,25,True,1.7614,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,71,True,1.77256,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,84,True,1.74697,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,77,True,1.74452,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,64,True,1.74247,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,29,True,1.74491,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,27,True,1.73891,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,88,True,1.73413,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,97,True,1.71477,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,4,True,1.71978,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,54,True,1.70242,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,75,True,1.6844,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,11,True,1.72859,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,69,True,1.72337,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,86,True,1.72526,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,13,True,1.74074,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,17,True,1.73502,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,28,True,1.724,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,31,True,1.71829,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,35,True,1.71589,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,94,True,1.70717,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,3,True,1.67824,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,14,True,1.68691,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+pplx_alone,pplx,81,True,1.65884,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+embedding_alone,embedding,42,True,0.10179,,768,
+embedding_alone,embedding,91,True,0.10646,,768,
+embedding_alone,embedding,41,True,0.11037,,768,
+embedding_alone,embedding,9,True,0.11177,,768,
+embedding_alone,embedding,65,True,0.11383,,768,
+embedding_alone,embedding,1,True,0.11397,,768,
+embedding_alone,embedding,50,True,0.11724,,768,
+embedding_alone,embedding,73,True,0.1284,,768,
+embedding_alone,embedding,56,True,0.12688,,768,
+embedding_alone,embedding,72,True,0.12753,,768,
+embedding_alone,embedding,10,True,0.13258,,768,
+embedding_alone,embedding,78,True,0.13693,,768,
+embedding_alone,embedding,15,True,0.13977,,768,
+embedding_alone,embedding,55,True,0.13689,,768,
+embedding_alone,embedding,45,True,0.13483,,768,
+embedding_alone,embedding,70,True,0.14608,,768,
+embedding_alone,embedding,48,True,0.13399,,768,
+embedding_alone,embedding,92,True,0.13298,,768,
+embedding_alone,embedding,76,True,0.13306,,768,
+embedding_alone,embedding,37,True,0.13352,,768,
+embedding_alone,embedding,30,True,0.13341,,768,
+embedding_alone,embedding,32,True,0.13099,,768,
+embedding_alone,embedding,21,True,0.13576,,768,
+embedding_alone,embedding,33,True,0.10865,,768,
+embedding_alone,embedding,49,True,0.1188,,768,
+embedding_alone,embedding,26,True,0.11752,,768,
+embedding_alone,embedding,96,True,0.12669,,768,
+embedding_alone,embedding,87,True,0.12082,,768,
+embedding_alone,embedding,83,True,0.12638,,768,
+embedding_alone,embedding,8,True,0.12213,,768,
+embedding_alone,embedding,80,True,0.13465,,768,
+embedding_alone,embedding,47,True,0.1238,,768,
+embedding_alone,embedding,59,True,0.12531,,768,
+embedding_alone,embedding,63,True,0.12538,,768,
+embedding_alone,embedding,74,True,0.1252,,768,
+embedding_alone,embedding,44,True,0.12519,,768,
+embedding_alone,embedding,98,True,0.12587,,768,
+embedding_alone,embedding,52,True,0.12671,,768,
+embedding_alone,embedding,85,True,0.12663,,768,
+embedding_alone,embedding,12,True,0.12667,,768,
+embedding_alone,embedding,23,True,0.12436,,768,
+embedding_alone,embedding,39,True,0.12539,,768,
+embedding_alone,embedding,36,True,0.13152,,768,
+embedding_alone,embedding,40,True,0.12579,,768,
+embedding_alone,embedding,61,True,0.12239,,768,
+embedding_alone,embedding,18,True,0.12962,,768,
+embedding_alone,embedding,66,True,0.12931,,768,
+embedding_alone,embedding,60,True,0.12698,,768,
+embedding_alone,embedding,7,True,0.12523,,768,
+embedding_alone,embedding,34,True,0.12526,,768,
+embedding_alone,embedding,99,True,0.1254,,768,
+embedding_alone,embedding,46,True,0.12494,,768,
+embedding_alone,embedding,2,True,0.12504,,768,
+embedding_alone,embedding,51,True,0.12496,,768,
+embedding_alone,embedding,16,True,0.12496,,768,
+embedding_alone,embedding,38,True,0.1248,,768,
+embedding_alone,embedding,58,True,0.12493,,768,
+embedding_alone,embedding,68,True,0.12384,,768,
+embedding_alone,embedding,24,True,0.12145,,768,
+embedding_alone,embedding,5,True,0.1207,,768,
+embedding_alone,embedding,22,True,0.12998,,768,
+embedding_alone,embedding,62,True,0.13059,,768,
+embedding_alone,embedding,67,True,0.1231,,768,
+embedding_alone,embedding,6,True,0.12678,,768,
+embedding_alone,embedding,82,True,0.1247,,768,
+embedding_alone,embedding,19,True,0.12474,,768,
+embedding_alone,embedding,79,True,0.12471,,768,
+embedding_alone,embedding,43,True,0.12446,,768,
+embedding_alone,embedding,90,True,0.12445,,768,
+embedding_alone,embedding,20,True,0.12458,,768,
+embedding_alone,embedding,0,True,0.12458,,768,
+embedding_alone,embedding,95,True,0.12512,,768,
+embedding_alone,embedding,93,True,0.12275,,768,
+embedding_alone,embedding,57,True,0.12697,,768,
+embedding_alone,embedding,89,True,0.12282,,768,
+embedding_alone,embedding,71,True,0.12061,,768,
+embedding_alone,embedding,53,True,0.1287,,768,
+embedding_alone,embedding,25,True,0.12693,,768,
+embedding_alone,embedding,84,True,0.12438,,768,
+embedding_alone,embedding,77,True,0.12481,,768,
+embedding_alone,embedding,64,True,0.12533,,768,
+embedding_alone,embedding,29,True,0.12528,,768,
+embedding_alone,embedding,27,True,0.12523,,768,
+embedding_alone,embedding,88,True,0.12514,,768,
+embedding_alone,embedding,97,True,0.12505,,768,
+embedding_alone,embedding,4,True,0.1246,,768,
+embedding_alone,embedding,54,True,0.1241,,768,
+embedding_alone,embedding,11,True,0.12074,,768,
+embedding_alone,embedding,69,True,0.12021,,768,
+embedding_alone,embedding,75,True,0.1274,,768,
+embedding_alone,embedding,31,True,0.11224,,768,
+embedding_alone,embedding,17,True,0.11871,,768,
+embedding_alone,embedding,86,True,0.1241,,768,
+embedding_alone,embedding,13,True,0.12406,,768,
+embedding_alone,embedding,28,True,0.12199,,768,
+embedding_alone,embedding,35,True,0.11928,,768,
+embedding_alone,embedding,94,True,0.12265,,768,
+embedding_alone,embedding,3,True,0.1214,,768,
+embedding_alone,embedding,14,True,0.12152,,768,
+embedding_alone,embedding,81,True,0.12157,,768,
+both_together,embedding,87,True,0.09938,,768,
+both_together,embedding,93,True,0.10254,,768,
+both_together,embedding,1,True,0.10684,,768,
+both_together,embedding,11,True,0.10802,,768,
+both_together,embedding,21,True,0.10885,,768,
+both_together,embedding,36,True,0.10487,,768,
+both_together,embedding,70,True,0.10658,,768,
+both_together,embedding,28,True,0.10739,,768,
+both_together,embedding,58,True,0.10802,,768,
+both_together,embedding,67,True,0.10921,,768,
+both_together,embedding,30,True,0.10979,,768,
+both_together,embedding,59,True,0.10843,,768,
+both_together,embedding,26,True,0.10865,,768,
+both_together,embedding,86,True,0.11032,,768,
+both_together,embedding,10,True,0.10931,,768,
+both_together,embedding,62,True,0.11281,,768,
+both_together,pplx,66,True,0.13888,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,2,True,0.21744,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,94,True,0.12547,,768,
+both_together,embedding,22,True,0.1246,,768,
+both_together,embedding,53,True,0.12467,,768,
+both_together,embedding,95,True,0.12074,,768,
+both_together,embedding,72,True,0.11854,,768,
+both_together,embedding,71,True,0.1185,,768,
+both_together,embedding,44,True,0.11423,,768,
+both_together,embedding,60,True,0.11322,,768,
+both_together,embedding,25,True,0.11127,,768,
+both_together,embedding,6,True,0.11168,,768,
+both_together,pplx,13,True,0.32796,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,13,True,0.11833,,768,
+both_together,embedding,5,True,0.12053,,768,
+both_together,embedding,3,True,0.11701,,768,
+both_together,embedding,45,True,0.11665,,768,
+both_together,embedding,61,True,0.11246,,768,
+both_together,embedding,92,True,0.11214,,768,
+both_together,embedding,2,True,0.10238,,768,
+both_together,pplx,64,True,0.42995,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,56,True,0.09276,,768,
+both_together,embedding,76,True,0.09261,,768,
+both_together,embedding,35,True,0.09259,,768,
+both_together,embedding,15,True,0.09068,,768,
+both_together,pplx,44,True,0.52077,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,77,True,0.09281,,768,
+both_together,embedding,46,True,0.09364,,768,
+both_together,embedding,79,True,0.09374,,768,
+both_together,embedding,65,True,0.09011,,768,
+both_together,pplx,76,True,0.61079,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,4,True,0.08712,,768,
+both_together,embedding,96,True,0.05087,,768,
+both_together,pplx,45,True,0.71467,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,18,True,0.05374,,768,
+both_together,pplx,30,True,0.81004,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,9,True,0.05382,,768,
+both_together,embedding,33,True,0.09251,,768,
+both_together,embedding,42,True,0.08588,,768,
+both_together,pplx,15,True,0.92381,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,40,True,0.05163,,768,
+both_together,embedding,23,True,0.05179,,768,
+both_together,pplx,42,True,1.03125,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,75,True,0.05044,,768,
+both_together,pplx,3,True,1.12889,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,48,True,0.05194,,768,
+both_together,embedding,0,True,0.05193,,768,
+both_together,pplx,47,True,1.26842,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,55,True,0.05098,,768,
+both_together,pplx,5,True,1.36524,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,84,True,0.05274,,768,
+both_together,embedding,12,True,0.05223,,768,
+both_together,pplx,37,True,1.47422,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,74,True,0.05225,,768,
+both_together,pplx,12,True,1.50076,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,36,True,1.5961,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,83,True,0.07622,,768,
+both_together,pplx,73,True,1.70496,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,61,True,1.74073,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,31,True,0.07158,,768,
+both_together,pplx,32,True,1.75336,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,24,True,0.12648,,768,
+both_together,embedding,98,True,0.08095,,768,
+both_together,pplx,14,True,1.77961,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,34,True,0.12878,,768,
+both_together,embedding,78,True,0.12849,,768,
+both_together,embedding,20,True,0.08173,,768,
+both_together,pplx,84,True,1.79381,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,54,True,1.79647,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,69,True,0.12535,,768,
+both_together,embedding,38,True,0.10223,,768,
+both_together,embedding,49,True,0.12766,,768,
+both_together,pplx,69,True,1.81683,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,32,True,0.12819,,768,
+both_together,embedding,27,True,0.12778,,768,
+both_together,pplx,95,True,1.82445,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,43,True,1.82369,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,64,True,0.06705,,768,
+both_together,pplx,63,True,1.83037,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,19,True,0.06721,,768,
+both_together,pplx,16,True,1.8502,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,72,True,1.82973,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,38,True,1.84085,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,78,True,1.85177,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,29,True,1.88489,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,60,True,1.88383,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,16,True,0.06783,,768,
+both_together,pplx,98,True,1.8607,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,99,True,0.12039,,768,
+both_together,embedding,57,True,0.07293,,768,
+both_together,pplx,10,True,1.84058,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,80,True,0.12476,,768,
+both_together,embedding,47,True,0.10069,,768,
+both_together,pplx,46,True,1.84295,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,52,True,0.07077,,768,
+both_together,pplx,79,True,1.8226,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,52,True,1.81491,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,85,True,1.8104,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,81,True,1.79071,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,41,True,0.06227,,768,
+both_together,pplx,82,True,1.79261,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,0,True,1.79151,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,89,True,1.79781,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,37,True,0.06717,,768,
+both_together,pplx,53,True,1.78833,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,17,True,0.0697,,768,
+both_together,pplx,90,True,1.76087,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,94,True,1.76271,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,41,True,1.74461,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,93,True,1.71848,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,99,True,1.70805,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,82,True,0.06805,,768,
+both_together,pplx,65,True,1.71469,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,90,True,0.06016,,768,
+both_together,embedding,81,True,0.06624,,768,
+both_together,pplx,34,True,1.72283,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,68,True,0.06457,,768,
+both_together,pplx,48,True,1.72632,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,85,True,0.06353,,768,
+both_together,pplx,49,True,1.72821,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,92,True,1.74851,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,75,True,1.7553,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,50,True,0.06798,,768,
+both_together,pplx,9,True,1.76959,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,14,True,0.06096,,768,
+both_together,embedding,7,True,0.0676,,768,
+both_together,pplx,96,True,1.75134,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,91,True,0.11987,,768,
+both_together,embedding,66,True,0.10753,,768,
+both_together,pplx,31,True,1.75844,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,43,True,0.11349,,768,
+both_together,embedding,97,True,0.102,,768,
+both_together,pplx,68,True,1.74543,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,54,True,0.11816,,768,
+both_together,embedding,29,True,0.11679,,768,
+both_together,pplx,11,True,1.75091,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,88,True,1.75285,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,91,True,1.76432,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,8,True,0.06872,,768,
+both_together,pplx,24,True,1.78532,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,51,True,0.06128,,768,
+both_together,embedding,39,True,0.06641,,768,
+both_together,embedding,73,True,0.06361,,768,
+both_together,pplx,97,True,1.82342,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,88,True,0.06327,,768,
+both_together,pplx,25,True,1.83806,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,86,True,1.8305,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,58,True,1.84259,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,17,True,1.8431,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,89,True,0.06318,,768,
+both_together,pplx,1,True,1.85365,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,71,True,1.84704,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,embedding,63,True,0.06623,,768,
+both_together,pplx,77,True,1.84683,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,56,True,1.83996,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,18,True,1.83772,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,83,True,1.83041,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,59,True,1.8303,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,7,True,1.84072,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,8,True,1.84279,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,51,True,1.83384,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,22,True,1.80656,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,19,True,1.77823,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,57,True,1.78925,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,62,True,1.77229,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,70,True,1.76531,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,40,True,1.75328,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,28,True,1.75806,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,33,True,1.75774,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,20,True,1.75711,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,50,True,1.74973,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,80,True,1.76181,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,55,True,1.75997,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,23,True,1.76554,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,67,True,1.76695,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,27,True,1.77769,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,4,True,1.77739,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,26,True,1.7808,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,35,True,1.78877,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,74,True,1.82207,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,39,True,1.83422,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,87,True,1.83235,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,6,True,1.83272,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
+both_together,pplx,21,True,1.79975,,,"{""type"": ""choice"", ""probabilities"": {""technical"": 0.9991184698158921, ""billing"": 0.0005409221493046541, ""sales"": 0.00034060803480321457}, ""choice"": ""technical"", ""confidence"": 0.998"
