@@ -1,0 +1,63 @@
+{
+  "config": {
+    "requests": 20,
+    "concurrency": 4,
+    "timeout": 90,
+    "pplx_model": "pplx-decider-flash",
+    "embed_model": "google/embeddinggemma-2"
+  },
+  "summary": [
+    {
+      "phase": "pplx_alone",
+      "service": "pplx",
+      "requests": 20,
+      "success": 0,
+      "failed": 20,
+      "success_pct": 0.0,
+      "p50_s": null,
+      "p95_s": null,
+      "mean_s": null,
+      "throughput_success_rps": 0.0,
+      "first_error": "HTTP Error 400: Bad Request"
+    },
+    {
+      "phase": "embedding_alone",
+      "service": "embedding",
+      "requests": 20,
+      "success": 20,
+      "failed": 0,
+      "success_pct": 100.0,
+      "p50_s": 0.139,
+      "p95_s": 0.519,
+      "mean_s": 0.215,
+      "throughput_success_rps": 18.522,
+      "first_error": ""
+    },
+    {
+      "phase": "both_together",
+      "service": "pplx",
+      "requests": 20,
+      "success": 0,
+      "failed": 20,
+      "success_pct": 0.0,
+      "p50_s": null,
+      "p95_s": null,
+      "mean_s": null,
+      "throughput_success_rps": 0.0,
+      "first_error": "HTTP Error 400: Bad Request"
+    },
+    {
+      "phase": "both_together",
+      "service": "embedding",
+      "requests": 20,
+      "success": 20,
+      "failed": 0,
+      "success_pct": 100.0,
+      "p50_s": 0.139,
+      "p95_s": 0.141,
+      "mean_s": 0.138,
+      "throughput_success_rps": 28.694,
+      "first_error": ""
+    }
+  ]
+}

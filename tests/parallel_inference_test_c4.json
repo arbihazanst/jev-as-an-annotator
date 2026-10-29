@@ -1,0 +1,63 @@
+{
+  "config": {
+    "requests": 20,
+    "concurrency": 4,
+    "timeout": 90,
+    "pplx_model": "perplexity-ai/pplx-decider-flash-v1.2",
+    "embed_model": "google/embeddinggemma-2"
+  },
+  "summary": [
+    {
+      "phase": "pplx_alone",
+      "service": "pplx",
+      "requests": 20,
+      "success": 20,
+      "failed": 0,
+      "success_pct": 100.0,
+      "p50_s": 0.433,
+      "p95_s": 0.455,
+      "mean_s": 0.404,
+      "throughput_success_rps": 9.118,
+      "first_error": ""
+    },
+    {
+      "phase": "embedding_alone",
+      "service": "embedding",
+      "requests": 20,
+      "success": 20,
+      "failed": 0,
+      "success_pct": 100.0,
+      "p50_s": 0.121,
+      "p95_s": 0.142,
+      "mean_s": 0.123,
+      "throughput_success_rps": 32.368,
+      "first_error": ""
+    },
+    {
+      "phase": "both_together",
+      "service": "pplx",
+      "requests": 20,
+      "success": 20,
+      "failed": 0,
+      "success_pct": 100.0,
+      "p50_s": 0.45,
+      "p95_s": 0.488,
+      "mean_s": 0.421,
+      "throughput_success_rps": 8.826,
+      "first_error": ""
+    },
+    {
+      "phase": "both_together",
+      "service": "embedding",
+      "requests": 20,
+      "success": 20,
+      "failed": 0,
+      "success_pct": 100.0,
+      "p50_s": 0.129,
+      "p95_s": 0.259,
+      "mean_s": 0.148,
+      "throughput_success_rps": 8.826,
+      "first_error": ""
+    }
+  ]
+}
